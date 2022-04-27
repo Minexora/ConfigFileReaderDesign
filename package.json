@@ -1,0 +1,19 @@
+{
+  "name": "configfilereaderdesign",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "pg": "^8.7.3"
+  }
+}
